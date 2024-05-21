@@ -39,6 +39,7 @@ public class ArrowDraw : MonoBehaviour
     }
     if (Input.GetMouseButtonUp(0))
     {
+      //comment
       arrowImage.gameObject.SetActive(false);
     }
 
